@@ -553,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-09-05 20:52:14 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2020-08-30 19:46:15 +0200"
@@ -997,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2020-09-05 20:57:24 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2020-08-30 19:29:32 +0200"
@@ -1018,6 +1030,12 @@
   "petrock:petrock/petrockspawn": {
     "criteria": {
       "petrockspawn": "2020-08-30 19:10:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-09-05 20:52:14 +0200"
     },
     "done": true
   },
